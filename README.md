@@ -12,7 +12,7 @@
 <img align="right" alt="GIF" src="https://i.imgur.com/jdzAmsi.jpg" width=200px/>
 
 <h2>Heyaa!👋 I'm Divyansh Khandelwal.<br> </h2>
-<h3>CollegeStudent  #Developer  #Freelancer</h3>
+<h3>#CollegeStudent  #Developer  #Freelancer</h3>
 
 <p> I'm a 3rd year student, perusing Bachelor of Technology in Electronics and Communication. I am self-motivated and highly responsible individual, aiming for a career in Network Security and Internet Of Things. 
 <br>
