@@ -9,14 +9,14 @@
 </p>
 
 
-<img align="right" alt="GIF" src="https://i.imgur.com/jdzAmsi.jpg" width=200px/>
-
-<h2>Heyaa!👋 I'm Divyansh Khandelwal.<br> </h2>
+<h2>Heya!👋 I'm Divyansh Khandelwal.<br> </h2>
 <a href="https://githubcampus.expert/noob-master147/">GitHub Campus Expert</a>
 
-<p> I'm a 3rd year student, perusing Bachelor of Technology in Electronics and Communication. I am self-motivated and highly responsible individual, aiming for a career in Network Security and Internet Of Things. 
+<p> I'm a 3rd-year student, pursuing a Bachelor of Technology in Electronics and Communication. I am a self-motivated and highly responsible individual, aiming for a career in DevOps and Internet Of Things.
+
 <br>
-I love to work on opensource projects and take part in hackathons. On occational basis, I also take contracts for freelancing on Upwork. Projects that generally interests me  involve proposing IoT solutions, Embedded and Software development and Backend development on NodeJS.
+I love to work on open-source projects and take part in hackathons. On an occasional basis, I also take contracts for freelancing on Upwork. Projects that generally interests me involve proposing IoT solutions, Embedded and Software development and Backend development on NodeJS.
+
 <p>
 <p align="center">
     <a href="https://noob-master147.github.io/">🌐 Visit My Website</a>
