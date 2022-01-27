@@ -9,7 +9,7 @@
 </p>
 
 
-<h2>Heya!👋 I'm Divyansh Khandelwal.<br> </h2>
+<h2>Heya!👋 <br>I'm Divyansh Khandelwal<br> </h2>
 <a href="https://githubcampus.expert/noob-master147/">GitHub Campus Expert</a>
 
 <p> I'm a 4rd-year student, pursuing a Bachelor of Technology in Electronics and Communication. I am a self-motivated and highly responsible individual, aiming for a career in DevOps and software development.
@@ -23,10 +23,8 @@ I love to work on open-source projects and take part in hackathons. On an occasi
  ---
 
 **About me:** 
-* 👨🏽‍💻 I’m currently working at [Spike.sh](Spike.sh) as a Backend Developer, developing native integrations and parsers🏆 
-* 🌱 I’m currently learning Vue.js and DevOps 
+* 👨🏽‍💻 I’m currently working at [Spike.sh](Spike.sh) as a Software Engineer🏆 
 * 👯 I’m open for collaborating on any opensource project 🤝 
-* 💬 Ask me about anything, I am happy to help 🥰
 * 📫 Reach Me At: divyanshkhandelwal147@gmail.com
 * 📝 My [Resume](https://docs.google.com/document/d/1_MZEFNvm-ANA4r4FnFT8NJeQtGkwq9lrg7v5_rH6v1I/edit?usp=sharing) 
 <br/><br/> 
@@ -39,9 +37,6 @@ I love to work on open-source projects and take part in hackathons. On an occasi
 </p>
 <br><br>
 
-<p>
-    <img width="150" align='left' src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif">
-</p>
 <p align="center">
     <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
