@@ -12,8 +12,6 @@
 <h2>Heya!👋 <br>I'm Divyansh Khandelwal<br> </h2>
 <a href="https://githubcampus.expert/noob-master147/">GitHub Campus Expert</a>
 
-<p> I'm a 4rd-year student, pursuing a Bachelor of Technology in Electronics and Communication. I am a self-motivated and highly responsible individual, aiming for a career in DevOps and software development.
-
 <br>
 I love to work on open-source projects and take part in hackathons. On an occasional basis, I also take contracts for freelancing on Upwork. Projects that generally interests me involve proposing IoT solutions, Embedded Software development and Backend development.
 
@@ -23,7 +21,8 @@ I love to work on open-source projects and take part in hackathons. On an occasi
  ---
 
 **About me:** 
-* 👨🏽‍💻 I’m currently working at [Spike.sh](Spike.sh) as a Software Engineer🏆 
+* 👨🏽‍💻 I’m currently working at [Dev Dynamics](https://devdynamics.ai/) as a Co-founding Engineer🏆
+* 🧑‍💼 I'm also a cofounder at [Spike.sh](Spike.sh) 🏆
 * 👯 I’m open for collaborating on any opensource project 🤝 
 * 📫 Reach Me At: divyanshkhandelwal147@gmail.com
 * 📝 My [Resume](https://docs.google.com/document/d/1_MZEFNvm-ANA4r4FnFT8NJeQtGkwq9lrg7v5_rH6v1I/edit?usp=sharing) 
