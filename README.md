@@ -22,7 +22,7 @@ I love to work on open-source projects and take part in hackathons. On an occasi
 
 **About me:** 
 * 👨🏽‍💻 I’m currently working at [Dev Dynamics](https://devdynamics.ai/) as a Co-founding Engineer🏆
-* 🧑‍💼 I'm also a cofounder at [Spike.sh](Spike.sh) 🏆
+* 🧑‍💼 I'm also a Co-founder at [Spike.sh](Spike.sh) 🏆
 * 👯 I’m open for collaborating on any opensource project 🤝 
 * 📫 Reach Me At: divyanshkhandelwal147@gmail.com
 * 📝 My [Resume](https://docs.google.com/document/d/1_MZEFNvm-ANA4r4FnFT8NJeQtGkwq9lrg7v5_rH6v1I/edit?usp=sharing) 
